@@ -1,7 +1,7 @@
 @charset "utf-8";
 .container-fluid .navbar.navbar-default.navbar-fixed-top {
-	background-color: #F0D907;
-	color: #000000;
+	background-color: #000000;
+	color: #F0D907;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	font-style: normal;
 	font-weight: 400;
@@ -11,7 +11,7 @@
 	margin-bottom: 10px;
 }
 .article {
-	color: #000000;
+	color: #F0D907;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	font-size: 18px;
 	margin-left: 10px;
@@ -21,9 +21,9 @@
 	font-weight: lighter;
 }
 body {
-	background-color: #F0D907;
+	background-color: #000000;
 }
 .h1 {
-	color: #000000;
+	color: #F0D907;
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 }
